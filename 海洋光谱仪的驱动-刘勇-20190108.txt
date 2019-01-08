@@ -1,9 +1,9 @@
-项目名称：
+﻿项目名称：
 	海洋光谱仪的驱动
 项目负责人：
 	软件：刘勇 	硬件：无 	机械：无
 项目简介：
-	xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	光谱仪统一驱动框架，支持所有光谱仪。
 项目周期:
 	xxxx/xx/xx-----xxxx/xx/xx
 项目奖金：￥xxxxx
