@@ -1,9 +1,9 @@
 项目名称：
 	傅立叶项目
 项目负责人：
-	软件：刘勇 	硬件：xxx 	机械：xxx
+	软件：刘勇 	硬件：徐同超 	机械：王恒
 项目简介：
-	xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	采用傅里叶红外原理测量xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 项目周期:
 	xxxx/xx/xx-----xxxx/xx/xx
 项目奖金：￥xxxxx
