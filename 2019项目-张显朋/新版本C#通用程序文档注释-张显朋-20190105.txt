@@ -32,11 +32,12 @@
 	6、2019/01/08-张显朋-完成报告：博睿3030V2超低排放烟（尘）气测试仪用户操作指导纲要(git地址：http://192.168.0.120/BrainGroup3030/Brain3030PCV2/Tree/master/项目文档)
 	
 节点2（完成程序方案）-19/01/10
-    2.1、2019/01/10-张显朋-完成程序烟尘注释（git地址：http://192.168.0.120/BrainGroup3030/Brain3030PCV2/Tree/master/Src）
+        2.1、2019/01/10-张显朋-完成程序烟尘注释（git地址：http://192.168.0.120/BrainGroup3030/Brain3030PCV2/Tree/master/Src）
 	2.2、2019/01/10-张显朋-完成程序烟气注释（git地址：http://192.168.0.120/BrainGroup3030/Brain3030PCV2/Tree/master/Src）
 	2.3、2019/01/10-张显朋-完成程序公共类注释(git地址：http://192.168.0.120/BrainGroup3030/Brain3030PCV2/Tree/master/Src）
 
 节点3（文件及注释最后修改）-19/01/11
+       3.1项目完成。
 
 
 说明：
